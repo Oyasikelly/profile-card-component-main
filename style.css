@@ -18,7 +18,7 @@ body{
     flex-direction: column;
     background-image: url('../images/bg-pattern-top.svg'), url('../images/bg-pattern-bottom.svg');
     background-repeat: no-repeat, no-repeat;
-    background-position: right 55vw bottom 5vh, left 45vw top 50vh;
+    background-position: right 55vw bottom 5vh, left 45vw top 49vh;
 }
 
 .wrapper{
